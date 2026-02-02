@@ -12,6 +12,8 @@ Following the List of Projects I have successfully completed:
    • Enhanced deployment efficiency by leveraging AWS EC2, Docker, & Docker Compose to streamline the application 
      deployment process, ensuring seamless functionality & improved accessibility
      
+   • Repo used: https://github.com/KC981210/Demo_project_dockercompose_repo.git
+     
    
 # 2. Project 2: Implementing Microservices with CodePipeline and ECS (select Project 2 branch for writeup, screenshots , Source  code):
    
