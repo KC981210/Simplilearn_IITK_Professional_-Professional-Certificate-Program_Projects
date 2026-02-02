@@ -12,7 +12,7 @@ Following the List of Projects I have successfully completed:
    • Configured AWS ECS(Fargate), task definitions, & services for scalable, serverless container orchestration, boosting 
      container management efficiency & enhancing orchestration capabilities
      
-   • Repos: https://github.com/anujdevopslearn/ReactFrontend.git
+   • Repos: https://github.com/anujdevopslearn/ReactFrontend.git ;
             https://github.com/anujdevopslearn/NodeBackend.git
 
      
