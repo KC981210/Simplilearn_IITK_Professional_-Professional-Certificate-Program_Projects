@@ -1,5 +1,5 @@
 # Simplilearn_IITK_Professional_-Professional-Certificate-Program_Projects
-Following the List of Projects I have successfully completed:
+
 
 # Project 2: Implementing Microservices with CodePipeline and ECS (select Project 2 branch for writeup, screenshots , Source  code):
    
