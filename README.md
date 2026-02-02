@@ -12,7 +12,7 @@ Following the List of Projects I have successfully completed:
    • Enhanced deployment efficiency by leveraging AWS EC2, Docker, & Docker Compose to streamline the application 
      deployment process, ensuring seamless functionality & improved accessibility
      
-   • Repo used: https://github.com/KC981210/Demo_project_dockercompose_repo.git
+   • Repo referred: https://github.com/KC981210/Demo_project_dockercompose_repo.git
      
    
 # 2. Project 2: Implementing Microservices with CodePipeline and ECS (select Project 2 branch for writeup, screenshots , Source  code):
@@ -26,7 +26,7 @@ Following the List of Projects I have successfully completed:
    • Configured AWS ECS(Fargate), task definitions, & services for scalable, serverless container orchestration, boosting 
      container management efficiency & enhancing orchestration capabilities
      
-   • Repos: https://github.com/anujdevopslearn/ReactFrontend.git ; https://github.com/anujdevopslearn/NodeBackend.git
+   • Repos referred: https://github.com/anujdevopslearn/ReactFrontend.git ; https://github.com/anujdevopslearn/NodeBackend.git
      
 
 # 3. Project 3: Jenkins Backup and Restore on AWS S3 (select Project 3 branch for writeup, screenshots , Source  code):
