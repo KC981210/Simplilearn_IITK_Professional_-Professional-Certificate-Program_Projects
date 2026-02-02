@@ -26,6 +26,8 @@ Following the List of Projects I have successfully completed:
    • Configured AWS ECS(Fargate), task definitions, & services for scalable, serverless container orchestration, boosting 
      container management efficiency & enhancing orchestration capabilities
      
+   • Repos: https://github.com/anujdevopslearn/ReactFrontend.git ; https://github.com/anujdevopslearn/NodeBackend.git
+     
 
 # 3. Project 3: Jenkins Backup and Restore on AWS S3 (select Project 3 branch for writeup, screenshots , Source  code):
 
