@@ -12,7 +12,7 @@
    • Configured AWS ECS(Fargate), task definitions, & services for scalable, serverless container orchestration, boosting 
      container management efficiency & enhancing orchestration capabilities
      
-   • Repos: https://github.com/anujdevopslearn/ReactFrontend.git ;
+   • Repos referred: https://github.com/anujdevopslearn/ReactFrontend.git ;
             https://github.com/anujdevopslearn/NodeBackend.git
 
      
