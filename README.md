@@ -1,7 +1,6 @@
 # Simplilearn_IITK_Professional_-Professional-Certificate-Program_Projects
-Following the List of Projects I have successfully completed:
 
-# 1.  Project 1: Deploy Multi-Tier Application  (select Project 1 branch for writeup, screenshots , Source  code) :
+#  Project 1: Deploy Multi-Tier Application  (select Project 1 branch for writeup, screenshots , Source  code) :
    
    • Deployed a multi-tier application structure on AWS EC2, comprising frontend, backend, & database components, to 
      bolster reliability & ensure seamless operational performance
