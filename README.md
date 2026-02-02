@@ -11,4 +11,4 @@
    • Enhanced deployment efficiency by leveraging AWS EC2, Docker, & Docker Compose to streamline the application 
      deployment process, ensuring seamless functionality & improved accessibility
      
-   • Repo used: https://github.com/KC981210/Demo_project_dockercompose_repo.git
+   • Repo referred: https://github.com/KC981210/Demo_project_dockercompose_repo.git
